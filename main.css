@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	float: left;
 }
 
 footer {
@@ -24,7 +24,8 @@ footer {
 }
 
 header {
-
+	float: left;
+	font-size: small;
 }
 
 img {
@@ -32,11 +33,11 @@ img {
 }
 
 main {
-
+ float:left;
 }
 
 nav {
-	
+	float:left;
 }
 
 #copyright {
@@ -44,5 +45,5 @@ nav {
 }
 
 #main-container {
-
+ clear: left;
 }
